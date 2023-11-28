@@ -1,4 +1,4 @@
-// ENG: For a given array of random numbers given from standard input, perform a shift of all zeros at the beginning of the sequence.
+// For a given array of random numbers given from standard input, perform a shift of all zeros at the beginning of the sequence.
 //Print the transformed array to standard output.//
 // ( Input : 12
 //1 9 8 4 0 0 2 7 0 6 0 9
