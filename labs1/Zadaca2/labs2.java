@@ -1,19 +1,16 @@
- //MKD: За даден збор кој се внесува од стандарден влез, да се испечати истиот превртен. 
-На влез во првиот ред се дава број на зборови кои ќе се внесуваат. 
-Во наредните линии се внесуваат самите зборови. //
- //ENG : For a given word entered from standard input, print it reversed. 
-On input in the first line, the number of words that will be entered is given.
-In the following lines, the words are entered.//
+// For a given word entered from standard input, print it reversed. 
+//On input in the first line, the number of words that will be entered is given.
+//In the following lines, the words are entered.//
 
  // (Input: 
-3
-one
-two
-three)
-(Output: 
-eno
-owt
-eerht ) //
+//3//
+//one//
+//two
+//three)//
+//(Output: //
+//eno//
+//owt//
+//eerht ) //
 
 import java.util.Scanner;
 public class ReverseWords {
